@@ -14,7 +14,8 @@
 ---
 
 ## 📊 Estatísticas
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: inline-flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Diana2716&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" width="250"/>
   
