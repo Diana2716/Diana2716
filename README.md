@@ -6,7 +6,6 @@
 ## 📊 Contribuições em 3D
 <div align="center">
 
-<!-- Gráfico 3D gerado pelo workflow -->
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
 
 </div>
@@ -30,14 +29,24 @@
 
 ## 🚀 Tecnologias
 
-<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: inline-flex; gap:20px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="background-color:#1e1e2e; padding:25px; border-radius:20px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); display: inline-flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <div style="background-color:#ED8B00; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); text-align:center;">
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+    <div style="margin-top:8px; color:white; font-weight:bold;">Java</div>
+  </div>
+
+  <div style="background-color:#E34F26; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); text-align:center;">
+    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
+    <div style="margin-top:8px; color:white; font-weight:bold;">HTML5</div>
+  </div>
+
+  <div style="background-color:#1572B6; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); text-align:center;">
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+    <div style="margin-top:8px; color:white; font-weight:bold;">CSS3</div>
+  </div>
 
 </div>
+
 
 ---
