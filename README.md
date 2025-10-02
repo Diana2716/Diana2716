@@ -3,22 +3,22 @@
 
 ---
 
+## 📊 Contribuições em 3D
+<div align="center">
+
+<!-- Gráfico 3D gerado pelo workflow -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
+
+</div>
+
+---
+
 ## 📊 Estatísticas
 <div align="center">
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Diana2716&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diana2716&layout=compact&theme=tokyonight&hide_border=true)  
 ![Streak](https://streak-stats.demolab.com?user=Diana2716&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📊 Contribuições em 3D
-<div align="center">
-
-<!-- Gráfico 3D gerado pelo workflow -->
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
 
 </div>
 
