@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou a Diana Oliveira</h1>
+<h1 align="center">👋 Olá, eu sou a Diana Oliveira</h1>
 <p align="center">💻 Estudante de Desenvolvimento de Sistemas </p>
 
 ---
@@ -17,7 +17,8 @@
 ## 📊 Contribuições em 3D
 <div align="center">
 
-![GitHub 3D Profile](./profile-3d-contrib/profile-night-view.svg)
+<!-- Gráfico 3D gerado pelo workflow -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
 
 </div>
 
@@ -34,3 +35,5 @@
 </div>
 
 ---
+
+⭐ Inspirado em perfis profissionais no GitHub
