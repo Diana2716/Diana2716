@@ -35,5 +35,3 @@
 </div>
 
 ---
-
-⭐ Inspirado em perfis profissionais no GitHub
