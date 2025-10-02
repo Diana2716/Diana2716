@@ -19,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Diana2716&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" width="250"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana2716&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" width="250"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Diana2716&theme=tokyonight&hide_border=true" alt="Streak" width="250"/>
 
 </div>
 
