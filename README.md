@@ -29,7 +29,7 @@
 
 ## 🚀 Tecnologias
 
-<div align="center" style="background-color:#1e1e2e; padding:25px; border-radius:20px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); display: flex; gap:20px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="background-color:#1e1e2e; padding:25px; border-radius:20px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); display: inline-flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 
   <!-- Java -->
   <div style="background-color:#ED8B00; padding:15px 20px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); text-align:center; width:120px;">
