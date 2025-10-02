@@ -3,7 +3,7 @@
 
 ---
 
-## Tecnologias
+## ° Tecnologias
 
 <div style="display: flex; gap: 10px; background-color: #1e1e2e; padding: 10px; border-radius: 8px; justify-content: center;">
  
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 Contribuições em 3D
+## ° Contribuições em 3D
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 Estatísticas
+## ° Estatísticas
 
 <div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: inline-flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 
