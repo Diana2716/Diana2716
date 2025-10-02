@@ -3,6 +3,29 @@
 
 ---
 
+## 🚀 Tecnologias
+
+<div style="display: flex; gap: 15px; align-items: center; justify-content: center; flex-wrap: nowrap;">
+
+  <div style="display: flex; align-items: center; gap: 5px; background:#f06529; padding:5px 10px; border-radius:5px; color:white; font-weight:bold;">
+    <img src="https://img.icons8.com/color/32/html-5.png" alt="HTML5" style="width:20px; height:20px;"/>
+    HTML
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 5px; background:#2965f1; padding:5px 10px; border-radius:5px; color:white; font-weight:bold;">
+    <img src="https://img.icons8.com/color/32/css3.png" alt="CSS3" style="width:20px; height:20px;"/>
+    CSS
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 5px; background:#f89820; padding:5px 10px; border-radius:5px; color:white; font-weight:bold;">
+    <img src="https://img.icons8.com/color/32/java-coffee-cup-logo.png" alt="Java" style="width:20px; height:20px;"/>
+    Java
+  </div>
+
+</div>
+
+---
+
 ## 📊 Contribuições em 3D
 <div align="center">
 
@@ -19,28 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Diana2716&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" width="250"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana2716&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" width="250"/>
-
-</div>
-
-
----
-## 🚀 Tecnologias
-
-<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: inline-flex; gap: 20px; flex-wrap: wrap; justfity-content: center;">
-
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java"/>
-     <div style="margin-top:8px; color:white; font-weight:bold;">JAVA</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/html-5.png" alt="HTML5"/>
-    <div style="margin-top:8px; color:white; font-weight:bold;">HTML5</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/css3.png" alt="CSS3"/>
-    <div style="margin-top:8px; color:white; font-weight:bold;">CSS3</div>
-  </div>
-
 
 </div>
 
