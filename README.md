@@ -17,8 +17,7 @@
 ## 📊 Contribuições em 3D
 <div align="center">
 
-<!-- Gráfico 3D gerado pelo workflow -->
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
+![GitHub 3D Profile](./profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
