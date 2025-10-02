@@ -28,31 +28,23 @@
 ---
 ## 🚀 Tecnologias
 
-<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: flex; justify-content: center; gap:40px;">
+<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: inline-flex; gap: 20px; flex-wrap: wrap; justfity-content: center;">
 
-  <!-- Java -->
   <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" width=250/>
     <div style="margin-top:8px; color:white; font-weight:bold;">Java</div>
   </div>
 
-  <!-- HTML5 -->
   <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/html-5.png" alt="HTML5"/>
+    <img src="https://img.icons8.com/color/64/html-5.png" alt="HTML5"  width=250/>
     <div style="margin-top:8px; color:white; font-weight:bold;">HTML5</div>
   </div>
 
-  <!-- CSS3 -->
   <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/css3.png" alt="CSS3"/>
+    <img src="https://img.icons8.com/color/64/css3.png" alt="CSS3"  width=250/>
     <div style="margin-top:8px; color:white; font-weight:bold;">CSS3</div>
   </div>
 
-  <!-- JavaScript -->
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/64/javascript.png" alt="JavaScript"/>
-    <div style="margin-top:8px; color:white; font-weight:bold;">JavaScript</div>
-  </div>
 
 </div>
 
