@@ -3,33 +3,25 @@
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div style="display: flex; gap: 10px; background-color: #1e1e2e; padding: 10px; border-radius: 8px; justify-content: center;">
+ 
+  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="24"/>
+    <span style="color: white; font-weight: bold;">Java</span>
+  </div>
 
-  <!-- HTML -->
   <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="24"/>
     <span style="color: white; font-weight: bold;">HTML</span>
   </div>
 
-  <!-- CSS -->
   <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="24"/>
     <span style="color: white; font-weight: bold;">CSS</span>
   </div>
 
-  <!-- JavaScript -->
-  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #f7df1e; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="24"/>
-    <span style="color: black; font-weight: bold;">JavaScript</span>
-  </div>
-
-  <!-- Java -->
-  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="24"/>
-    <span style="color: white; font-weight: bold;">Java</span>
-  </div>
 
 </div>
 
