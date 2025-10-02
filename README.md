@@ -5,24 +5,34 @@
 
 ## 🚀 Tecnologias
 
-<div style="display: flex; gap: 15px; align-items: center; justify-content: center; flex-wrap: nowrap;">
+<div style="display: flex; gap: 10px; background-color: #1e1e2e; padding: 10px; border-radius: 8px; justify-content: center;">
 
-  <div style="display: flex; align-items: center; gap: 5px; background:#f06529; padding:5px 10px; border-radius:5px; color:white; font-weight:bold;">
-    <img src="https://img.icons8.com/color/32/html-5.png" alt="HTML5" style="width:20px; height:20px;"/>
-    HTML
+  <!-- HTML -->
+  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="24"/>
+    <span style="color: white; font-weight: bold;">HTML</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 5px; background:#2965f1; padding:5px 10px; border-radius:5px; color:white; font-weight:bold;">
-    <img src="https://img.icons8.com/color/32/css3.png" alt="CSS3" style="width:20px; height:20px;"/>
-    CSS
+  <!-- CSS -->
+  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="24"/>
+    <span style="color: white; font-weight: bold;">CSS</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 5px; background:#f89820; padding:5px 10px; border-radius:5px; color:white; font-weight:bold;">
-    <img src="https://img.icons8.com/color/32/java-coffee-cup-logo.png" alt="Java" style="width:20px; height:20px;"/>
-    Java
+  <!-- JavaScript -->
+  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #f7df1e; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="24"/>
+    <span style="color: black; font-weight: bold;">JavaScript</span>
+  </div>
+
+  <!-- Java -->
+  <div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="24"/>
+    <span style="color: white; font-weight: bold;">Java</span>
   </div>
 
 </div>
+
 
 ---
 
