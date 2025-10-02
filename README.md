@@ -34,12 +34,10 @@
     <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java"/>
      <div style="margin-top:8px; color:white; font-weight:bold;">JAVA</div>
   </div>
-
   <div style="text-align:center;">
     <img src="https://img.icons8.com/color/64/html-5.png" alt="HTML5"/>
     <div style="margin-top:8px; color:white; font-weight:bold;">HTML5</div>
   </div>
-
   <div style="text-align:center;">
     <img src="https://img.icons8.com/color/64/css3.png" alt="CSS3"/>
     <div style="margin-top:8px; color:white; font-weight:bold;">CSS3</div>
