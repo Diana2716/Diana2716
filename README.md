@@ -32,7 +32,6 @@
 
   <div style="text-align:center;">
     <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java"/>
-    <div style="margin-top:8px; color:white; font-weight:bold;">Java</div>
   </div>
 
   <div style="text-align:center;">
