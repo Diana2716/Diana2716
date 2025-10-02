@@ -26,10 +26,9 @@
 
 
 ---
-
 ## 🚀 Tecnologias
 
-<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: flex; justify-content: center; gap:40px; flex-wrap: wrap;">
+<div align="center" style="background-color:#1e1e2e; padding:20px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: flex; justify-content: center; gap:40px;">
 
   <!-- Java -->
   <div style="text-align:center;">
@@ -47,6 +46,12 @@
   <div style="text-align:center;">
     <img src="https://img.icons8.com/color/64/css3.png" alt="CSS3"/>
     <div style="margin-top:8px; color:white; font-weight:bold;">CSS3</div>
+  </div>
+
+  <!-- JavaScript -->
+  <div style="text-align:center;">
+    <img src="https://img.icons8.com/color/64/javascript.png" alt="JavaScript"/>
+    <div style="margin-top:8px; color:white; font-weight:bold;">JavaScript</div>
   </div>
 
 </div>
