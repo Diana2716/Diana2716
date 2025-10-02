@@ -1,5 +1,11 @@
-<h1 align="center">👋 Olá, eu sou a Diana Oliveira</h1>
-<p align="center">💻 Estudante de Desenvolvimento de Sistemas </p>
+<h1 align="center"> Diana Oliveira</h1>
+<p align="center"> Estudante técnico de Desenvolvimento de Sistemas </p>
+
+---
+
+## ° Estudos
+- *Orientação a Objetos com Java*
+- *Padrões de projeto*
 
 ---
 
